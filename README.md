@@ -41,9 +41,12 @@ I'm a Frontend Developer with an interest in building user-friendly and efficien
 <img src="https://github-readme-stats.vercel.app/api?username=ananya-kushi07&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height=170/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-kushi07&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height=170/>
 </div>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananya-kushi07&theme=dracula&hide_border=false)
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-kushi07&theme=dracula&hide_border=false"/>
+###
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-kushi07&theme=dracula&hide_border=false"/>
+</div>
 
 <!---
 ananya-kushi07/ananya-kushi07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
