@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">👋 Hi, I’m Ananya K S</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-kushi07&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-kushi07" /> </p>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="150" align="right"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="250" align="right"/>
 I'm a Frontend Developer with an interest in building user-friendly and efficient web applications.
 
 ###  
