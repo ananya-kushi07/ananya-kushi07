@@ -46,6 +46,8 @@ I'm a Frontend Developer with an interest in building user-friendly and efficien
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-kushi07&theme=dracula&hide_border=false" alt="ananya-kushi07"/>
 </div>
 
+<img src="https://raw.githubusercontent.com/ananya-kushi07/ananya-kushi07/output/snake.svg" alt="Snake animation" />
+
 <!---
 ananya-kushi07/ananya-kushi07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
