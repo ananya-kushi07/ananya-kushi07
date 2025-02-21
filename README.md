@@ -38,7 +38,7 @@ I'm a Frontend Developer with an interest in building user-friendly and efficien
 
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ananya-kushi07&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height=170/>
+<img src="https://github-readme-stats.vercel.app/api?username=ananya-kushi07&theme=darcula&hide_border=false&include_all_commits=false&count_private=false" height=170/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-kushi07&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height=170/>
 </div>
 
