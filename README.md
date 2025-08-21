@@ -10,13 +10,17 @@ I'm a Frontend Developer with an interest in building user-friendly and efficien
 
 ###  
 
-- 🔭 I’m currently working on **Vidhi**  
+💡 I’m a passionate **Full Stack Developer** with a strong interest in system integrations and applied machine learning projects.  
+🎨 I enjoy creating clean and user-friendly frontend designs, while also exploring scalable backend solutions.  
+☁️ Currently exploring **AWS** and diving deeper into cloud-native development.  
+🗣️ On a personal note, I’m learning the **Japanese language**. 
 
-- 🌱 I’m currently learning **FastAPI** to expand my backend skills
-
-- 👨‍💻 All of my projects are available at https://github.com/ananya-kushi07
-
-- 📫 How to reach me *ananya.kushi07@gmail.com*
+🔭 I’m currently working at **ChemStruct AI**.  
+🌱 I’m expanding my backend skills to become more versatile as a developer.  
+💬 Ask me about ** HTML, React, JavaScript, CSS, MySQL, MongoDB**, or frontend design ideas.  
+🤝 I’m open to collaborating on **web development projects** involving modern stacks and integrations.  
+👨‍💻 All of my projects are available at https://github.com/ananya-kushi07
+📫 How to reach me *ananya.kushi07@gmail.com*
 
   ###
   <h3 align="left">Languages and Tools:</h3>
