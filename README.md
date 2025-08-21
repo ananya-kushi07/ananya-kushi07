@@ -19,6 +19,7 @@ I'm a Frontend Developer with an interest in building user-friendly and efficien
 🌱 I’m expanding my backend skills to become more versatile as a developer.  
 💬 Ask me about ** HTML, React, JavaScript, CSS, MySQL, MongoDB**, or frontend design ideas.  
 🤝 I’m open to collaborating on **web development projects** involving modern stacks and integrations.  
+
 👨‍💻 All of my projects are available at https://github.com/ananya-kushi07
 📫 How to reach me *ananya.kushi07@gmail.com*
 
