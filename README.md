@@ -14,7 +14,7 @@
 ☁️ Currently exploring **AWS** and diving deeper into cloud-native development.  
 🗣️ On a personal note, I’m learning the **Japanese language**. 
 
-🔭 I’m currently working at **ChemStruct AI**.  
+🔭 I’m currently doing internship at **Thaniya Technologies**.  
 🌱 I’m expanding my backend skills to become more versatile as a developer.  
 💬 Ask me about **HTML, React, JavaScript, CSS, MySQL, MongoDB**, or frontend design ideas.  
 🤝 I’m open to collaborating on **web development projects** involving modern stacks and integrations.  
