@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](#)
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ananya-kushi07/count.svg" />
-</p>
+</p> -->
 <h1 align="center">👋 Hi, I’m Ananya K S</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-kushi07&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-kushi07" /> </p>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="250" align="right"/>
@@ -11,9 +11,7 @@
 
 💡 I’m a passionate **Full Stack Developer** with a strong interest in system integrations and applied machine learning projects.  
 🎨 I enjoy creating clean and user-friendly frontend designs, while also exploring scalable backend solutions.  
-☁️ Currently exploring **AWS** and diving deeper into cloud-native development.  
 🗣️ On a personal note, I’m learning the **Japanese language**. 
-
 🔭 I’m currently doing internship at **Thaniya Technologies**.  
 🌱 I’m expanding my backend skills to become more versatile as a developer.  
 💬 Ask me about **HTML, React, JavaScript, CSS, MySQL, MongoDB**, or frontend design ideas.  
